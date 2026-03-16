@@ -4,7 +4,7 @@ This repository contains my submission for **Lab 2** of the Python course.
 
 ## Contents
 
-- `lab2_Lavoisier_MUKAM_github.ipynb`: main notebook
+- `lab2_Lavoisier_MUKAM.ipynb`: main notebook
 - `nyc_taxi.csv`: NYC taxi dataset used for the Plotly part
 - `TG_STAID011249.txt`: temperature dataset used in the final section
 
